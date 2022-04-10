@@ -13,6 +13,9 @@
     "format": "prettier --write --ignore-path .gitignore './**/*.{js,jsx,ts,tsx,json}'"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.6.0",
     "axios": "^0.26.1",
     "firebase": "^9.6.10",
     "firebase-admin": "^10.0.2",
